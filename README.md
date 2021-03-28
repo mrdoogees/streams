@@ -1,4 +1,5 @@
-# streams-training
+# Traders executing transactions
+# Find answers to eight queries
 
 ```java
 import java.util.Arrays;
