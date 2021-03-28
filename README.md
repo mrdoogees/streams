@@ -1,5 +1,6 @@
-# Traders executing transactions
-## Find answers to eight queries
+# Find answers to eight queries
+## Traders executing transactions
+
 
 ```java
 import java.util.Arrays;
